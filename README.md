@@ -1,4 +1,6 @@
 # Local Resolving Neighborhoods of Consecutive Circulant Graphs
+[![DOI](https://zenodo.org/badge/1412714886.svg)](https://doi.org/10.5281/zenodo.23273690)
+
 
 A small, dependency-free Python module for computing distances, edges, and
 local resolving neighborhoods `L(i,j)` in the consecutive circulant graph
