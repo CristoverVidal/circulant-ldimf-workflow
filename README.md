@@ -72,7 +72,7 @@ dimension of graphs, Contrib. Discrete Math. 19 (2024), no. 3, 163–177.
 ## Citing
 If you use this in your own work, I'd love to hear about it.
 
-Vidal, C.N. (2026). Local Resolving Neighborhoods of Consecutive Circulant Graphs (v1.0). Zenodo.
+Vidal, C.N. (2026). Local Resolving Neighborhoods of Consecutive Circulant Graphs (v1.0). Zenodo.https://doi.org/10.5281/zenodo.23273690
 
 ## License
 MIT --- see License.
